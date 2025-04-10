@@ -1,0 +1,6 @@
+llama-index==0.12.24
+python-dotenv
+fastapi
+uvicorn[standard]
+python-dotenv
+openai
