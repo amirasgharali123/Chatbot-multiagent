@@ -33,6 +33,8 @@ python main.py
 
 ### Run Frontend code
 
+Open the new terminal and run below commands
+
 ```bash
 cd renidy-frontend
 ```
