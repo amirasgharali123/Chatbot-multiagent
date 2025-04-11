@@ -1,4 +1,4 @@
-# 🕊️ Renidy Funeral Planner – Multiagent
+# 🕊️ Renidy Funeral Planner – Multi-agent
 
 This is the frontend for the **Renidy AI Funeral Planner**, a compassionate and intelligent assistant that guides users through funeral planning with empathy and automation. The frontend is built with **React**, styled using **Tailwind CSS v4**, and powered by **Vite** for blazing-fast development.
 
