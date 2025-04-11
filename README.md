@@ -28,7 +28,7 @@ cd Chatbot-multiagent
 ### Run Backend code
 
 ```bash
-python main.py
+uvicorn main:app --reload --port 8000
 ```
 
 ### Run Frontend code
